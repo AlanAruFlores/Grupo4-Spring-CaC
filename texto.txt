@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 HOla como estas
 
 prueba nueva linea practica de git flow (Alejando Perez)
+=======
+
+Esto lo escribio Pablo.
+HOla como estas
+Muy bien
+>>>>>>> a06d4f44eb319a56ac7542f4f9672d84a24cd1c7
